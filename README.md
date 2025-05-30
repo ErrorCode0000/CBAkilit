@@ -7,6 +7,8 @@
 - Kapatması aşırı zordur.
 - Statik acil durum parolası vardır.
 - **Uyarı:** Akıllı tahta dışındaki cihazlarda birkaç bug vardır. Hala üstünde çalışıroruz.
+
+[Klavuz](https://eskisehircagdas-my.sharepoint.com/:v:/g/personal/can_baris_ozelcagdas_k12_tr/ER8SkyXSn7JGl3ndVVukiDUBRSXL32IMlBuOkNIU2NML0A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=nTlPXR)
 ***
 ## *CBAkilit* **Ultimate**
 - .zip arşivi şifrelidir.
