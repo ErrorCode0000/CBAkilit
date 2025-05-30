@@ -1,3 +1,12 @@
+## *CBAkilit* **Ultimate** _v4_
+- .zip arşivi şifrelidir.
+- Türkçe Q klavye vardır.
+- Akıllı tahtalar için optimize edildi.
+- Yüklemesi aşırı kolaydır.
+- Python3 ile yazıldı.
+- Kapatması aşırı zordur.
+- Statik acil durum parolası vardır.
+
 ## *CBAkilit* **Ultimate** _v3_
 - .zip arşivi şifrelidir.
 - Türkçe Q klavye vardır.
