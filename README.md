@@ -7,6 +7,8 @@
 - Kapatması aşırı zordur.
 - Statik acil durum parolası vardır.
 
+[Klavuz](https://eskisehircagdas-my.sharepoint.com/:v:/g/personal/can_baris_ozelcagdas_k12_tr/ER8SkyXSn7JGl3ndVVukiDUBRSXL32IMlBuOkNIU2NML0A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=nTlPXR)
+***
 ## *CBAkilit* **Ultimate** _v3_
 - .zip arşivi şifrelidir.
 - Türkçe Q klavye vardır.
@@ -18,7 +20,7 @@
 - **Uyarı:** Akıllı tahta dışındaki cihazlarda birkaç bug vardır. Hala üstünde çalışıroruz.
 
 [Klavuz](https://eskisehircagdas-my.sharepoint.com/:v:/g/personal/can_baris_ozelcagdas_k12_tr/ER8SkyXSn7JGl3ndVVukiDUBRSXL32IMlBuOkNIU2NML0A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=nTlPXR)
-
+***
 ## *CBAkilit* **Ultimate** _v2_
 - .zip arşivi şifrelidir.
 - Türkçe Q klavye vardır.
