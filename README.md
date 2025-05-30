@@ -1,56 +1,70 @@
-## *CBAkilit* **Ultimate** _v4_
-- .zip arşivi şifrelidir.
-- Türkçe Q klavye vardır.
-- Akıllı tahtalar için optimize edildi.
-- Yüklemesi aşırı kolaydır.
-- Python3 ile yazıldı.
-- Kapatması aşırı zordur.
-- Statik acil durum parolası vardır.
+## *CBAkilit* **Ultimate** *v4*
 
-[Klavuz](https://eskisehircagdas-my.sharepoint.com/:v:/g/personal/can_baris_ozelcagdas_k12_tr/ER8SkyXSn7JGl3ndVVukiDUBRSXL32IMlBuOkNIU2NML0A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=nTlPXR)
-***
-## *CBAkilit* **Ultimate** _v3_
-- .zip arşivi şifrelidir.
-- Türkçe Q klavye vardır.
-- Akıllı tahtalar için optimize edildi.
-- Yüklemesi aşırı kolaydır.
-- Python3 ile yazıldı.
-- Kapatması aşırı zordur.
-- Statik acil durum parolası vardır.
-- **Uyarı:** Akıllı tahta dışındaki cihazlarda birkaç bug vardır. Hala üstünde çalışıroruz.
+  - .zip arşivi **şifrelidir.**
+  - Türkçe Q klavye **desteği vardır.**
+  - Akıllı tahtalar için **optimize edilmiştir.**
+  - Yüklemesi **oldukça kolaydır.**
+  - Python3 ile **yazılmıştır.**
+  - Kapatması **aşırı zordur.**
+  - Statik acil durum parolası **içerir.**
+  - **Uyarı:** Akıllı tahta dışındaki cihazlarda birkaç yazılım hatası bulunsa da, bu sürüm diğerlerinden daha az hata içeriyor. Halen üzerinde çalışıyoruz.
 
-[Klavuz](https://eskisehircagdas-my.sharepoint.com/:v:/g/personal/can_baris_ozelcagdas_k12_tr/ER8SkyXSn7JGl3ndVVukiDUBRSXL32IMlBuOkNIU2NML0A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=nTlPXR)
-***
-## *CBAkilit* **Ultimate** _v2_
-- .zip arşivi şifrelidir.
-- Türkçe Q klavye vardır.
-- Akıllı tahtalar için optimize edildi.
-- Yüklemesi aşırı kolaydır.
-- Python3 ile yazıldı.
-- Kapatması aşırı zordur.
-- Statik acil durum parolası vardır.
-- **Uyarı:** Akıllı tahta dışındaki cihazlarda birkaç bug vardır. Hala üstünde çalışıroruz.
+[Kılavuz](https://eskisehircagdas-my.sharepoint.com/:v:/g/personal/can_baris_ozelcagdas_k12_tr/ER8SkyXSn7JGl3ndVVukiDUBRSXL32IMlBuOkNIU2NML0A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=nTlPXR)
 
-[Klavuz](https://eskisehircagdas-my.sharepoint.com/:v:/g/personal/can_baris_ozelcagdas_k12_tr/ER8SkyXSn7JGl3ndVVukiDUBRSXL32IMlBuOkNIU2NML0A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=nTlPXR)
-***
+-----
+
+## *CBAkilit* **Ultimate** *v3*
+
+  - .zip arşivi **şifrelidir.**
+  - Türkçe Q klavye **desteği vardır.**
+  - Akıllı tahtalar için **optimize edilmiştir.**
+  - Yüklemesi **oldukça kolaydır.**
+  - Python3 ile **yazılmıştır.**
+  - Kapatması **aşırı zordur.**
+  - Statik acil durum parolası **içerir.**
+  - **Uyarı:** Akıllı tahta dışındaki cihazlarda birkaç yazılım hatası bulunmaktadır. Halen üzerinde çalışıyoruz.
+
+[Kılavuz](https://eskisehircagdas-my.sharepoint.com/:v:/g/personal/can_baris_ozelcagdas_k12_tr/ER8SkyXSn7JGl3ndVVukiDUBRSXL32IMlBuOkNIU2NML0A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=nTlPXR)
+
+-----
+
+## *CBAkilit* **Ultimate** *v2*
+
+  - .zip arşivi **şifrelidir.**
+  - Türkçe Q klavye **desteği vardır.**
+  - Akıllı tahtalar için **optimize edilmiştir.**
+  - Yüklemesi **oldukça kolaydır.**
+  - Python3 ile **yazılmıştır.**
+  - Kapatması **aşırı zordur.**
+  - Statik acil durum parolası **içerir.**
+  - **Uyarı:** Akıllı tahta dışındaki cihazlarda birkaç yazılım hatası bulunmaktadır. Halen üzerinde çalışıyoruz.
+
+[Kılavuz](https://eskisehircagdas-my.sharepoint.com/:v:/g/personal/can_baris_ozelcagdas_k12_tr/ER8SkyXSn7JGl3ndVVukiDUBRSXL32IMlBuOkNIU2NML0A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=nTlPXR)
+
+-----
+
 ## *CBAkilit* **Ultimate**
-- .zip arşivi şifrelidir.
-- Türkçe Q klavye vardır.
-- Akıllı tahtalar için optimize edildi.
-- Python3 ile yazıldı.
-- Kapatması aşırı zordur.
-- Statik acil durum parolası vardır.
-- **Uyarı:** Akıllı tahta dışındaki cihazlarda birkaç bug vardır. Hala üstünde çalışıroruz.
 
-[Klavuz](https://eskisehircagdas-my.sharepoint.com/:v:/g/personal/can_baris_ozelcagdas_k12_tr/EaBCFCyqNnRDlorag4T_D_0BHI-wS2FoPRji8abbeNjRXw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gEo4IB)
-***
+  - .zip arşivi **şifrelidir.**
+  - Türkçe Q klavye **desteği vardır.**
+  - Akıllı tahtalar için **optimize edilmiştir.**
+  - Python3 ile **yazılmıştır.**
+  - Kapatması **aşırı zordur.**
+  - Statik acil durum parolası **içerir.**
+  - **Uyarı:** Akıllı tahta dışındaki cihazlarda birkaç yazılım hatası bulunmaktadır. Halen üzerinde çalışıyoruz.
+
+[Kılavuz](https://eskisehircagdas-my.sharepoint.com/:v:/g/personal/can_baris_ozelcagdas_k12_tr/EaBCFCyqNnRDlorag4T_D_0BHI-wS2FoPRji8abbeNjRXw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gEo4IB)
+
+-----
+
 ## *CBAkilit* **PRO**
-- .zip arşivinde şifre yoktur.
-- Sadece sayıları içeren bir klavye vardır.
-- Bilgisayarlar için optimize edilidi.
-- Statik acil durum parolası vardır.
-- Akıllı tahtalarda statik acil durum parolası çalışmaz.
-- Python3 ile yazıldı.
-- Kapatması çok zordur.
 
-[Klavuz](https://eskisehircagdas-my.sharepoint.com/:v:/g/personal/can_baris_ozelcagdas_k12_tr/EaBCFCyqNnRDlorag4T_D_0BHI-wS2FoPRji8abbeNjRXw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gEo4IB)
+  - .zip arşivinde şifre **bulunmamaktadır.**
+  - Sadece sayıları içeren bir klavye **desteği vardır.**
+  - Bilgisayarlar için **optimize edilmiştir.**
+  - Statik acil durum parolası **içerir.**
+  - Akıllı tahtalarda statik acil durum parolası **çalışmamaktadır.**
+  - Python3 ile **yazılmıştır.**
+  - Kapatması **oldukça zordur.**
+
+[Kılavuz](https://www.google.com/search?q=https://eskisehircagdas-my.sharepoint.com/:v:/g/personal/can_baris_ozelcagdas_k12_tr/EaBCFCyqNnRDlorag4T_D_0BHI-wS2FoPRji8abbeNjRXw%3Fnav%3DeyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcmFsVmlldyI6IlNoYXJlRGlhbG9nLUxpbmciLCJyZWZlcnJhbEFwcFBsYXRmb3JtIjoiV2ViIiwicmVmZXJyYWxNb2RlIjoidmlldyJ9fQ%253D%253D%26e%3DgEo4IB)
