@@ -1,3 +1,18 @@
+## *CBAkilit* **Ultimate** *v5*
+
+  - .zip arşivi **şifrelidir.**
+  - Toplam 3 klavye türü **destekler.**
+  - Akıllı tahtalar için **optimize edilmiştir.**
+  - Yüklemesi **oldukça kolaydır.**
+  - Python3 ile **yazılmıştır.**
+  - Kapatması **aşırı zordur.**
+  - Statik acil durum parolası **içerir.**
+  - **Uyarı:** Akıllı tahta dışındaki cihazlarda birkaç yazılım hatası bulunsa da, bu sürüm diğerlerinden daha az hata içeriyor. Halen üzerinde çalışıyoruz.
+
+[Kılavuz](https://eskisehircagdas-my.sharepoint.com/:v:/g/personal/can_baris_ozelcagdas_k12_tr/ER8SkyXSn7JGl3ndVVukiDUBRSXL32IMlBuOkNIU2NML0A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=nTlPXR)
+
+-----
+
 ## *CBAkilit* **Ultimate** *v4*
 
   - .zip arşivi **şifrelidir.**
